@@ -68,10 +68,6 @@
 
                 tri_layer {
 // -----------------------------------------------------------------------------------------
-// |   `  |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  | DEL  |
-// | SHFT |     |     |     |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
-// | CTRL |     |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
-//                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &trans &trans           &trans           &trans           &trans           &trans                  &trans &trans &trans &trans &trans &trans
    &trans &rgb_ug RGB_BRI  &rgb_ug RGB_SAI  &rgb_ug RGB_HUI  &rgb_ug RGB_EFF  &trans &rgb_ug RGB_TOG  &trans &trans &trans &trans &trans &trans
