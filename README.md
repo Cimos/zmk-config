@@ -1,1 +1,1 @@
-#zmk-config
+# Corne Keymap for ZMK
